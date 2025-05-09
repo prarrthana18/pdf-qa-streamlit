@@ -1,0 +1,7 @@
+﻿streamlit
+pytesseract
+pdf2image
+langchain
+langchain-community
+chromadb
+ollama
